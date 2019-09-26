@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c2562a29e2e0d249b39a6bd12463900
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - square: {fileID: -6231413959042962193, guid: 796d339428e7b3d4d8f99b11e4bb2e68,
+      type: 3}
+  - boardContainer: {fileID: 758351883398168206, guid: b1ffc2ac2c3758e4099d649a8d412a54,
+      type: 3}
+  - playerPrefab: {fileID: 5044104136206450396, guid: 15abd034c89752345ad9fdb0a6457a34,
+      type: 3}
+  - piecePrefab: {fileID: 959840096367659392, guid: 83e0a852d4a043a4d986e592b18b58a5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
